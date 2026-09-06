@@ -5,3 +5,5 @@ pandas
 matplotlib
 scikit-image
 scikit-learn
+xgboost
+lightgbm
